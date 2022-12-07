@@ -112,7 +112,7 @@ include './conexiones/paginaPrincipalinformacion.php';
 
         <td class="p-5"> <div class="text-center">MISION</div><br>
           
-         <?php foreach($resultado as $row){ ?>  <?php echo $row['Mision']; ?>  <?php }?></td>
+         <p>Los días son mejores cuando uno sonrie a pesar de los problemas</p>
         <td class="p-5">
             <div class="text-center">VISION</div><br>
              
